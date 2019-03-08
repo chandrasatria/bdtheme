@@ -1,6 +1,6 @@
-## bd theme
+## Bdtheme01
 
-bd theme
+bdtheme
 
 #### License
 

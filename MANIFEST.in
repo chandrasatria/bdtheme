@@ -4,15 +4,15 @@ include *.json
 include *.md
 include *.py
 include *.txt
-recursive-include bdtheme *.css
-recursive-include bdtheme *.csv
-recursive-include bdtheme *.html
-recursive-include bdtheme *.ico
-recursive-include bdtheme *.js
-recursive-include bdtheme *.json
-recursive-include bdtheme *.md
-recursive-include bdtheme *.png
-recursive-include bdtheme *.py
-recursive-include bdtheme *.svg
-recursive-include bdtheme *.txt
-recursive-exclude bdtheme *.pyc
+recursive-include bdtheme01 *.css
+recursive-include bdtheme01 *.csv
+recursive-include bdtheme01 *.html
+recursive-include bdtheme01 *.ico
+recursive-include bdtheme01 *.js
+recursive-include bdtheme01 *.json
+recursive-include bdtheme01 *.md
+recursive-include bdtheme01 *.png
+recursive-include bdtheme01 *.py
+recursive-include bdtheme01 *.svg
+recursive-include bdtheme01 *.txt
+recursive-exclude bdtheme01 *.pyc
